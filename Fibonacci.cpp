@@ -7,7 +7,7 @@ int main()
     cin>>n;
     cout<<"Fibonacci series:"<<a0<<", "<<a1<<" ,";
     nextTerm=a0+a1;
-    
+    cout<<"hi";
     while(nextTerm<=n)
     {
         cout<<nextTerm<<", ";
